@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Léo SAUTRON from Reunion Island<br><br>- 🔭 I'm a second-year student at Epitech.<br>- 📚 I'm currently learning C++/Haskell<br>- ⚡ In my free time I devote myself to developing my own game engine, a secret project of mine, while also delving into DevOps.</p>
+<p align="left">I'm Léo SAUTRON from Reunion Island<br><br>- 🔭 I'm a fourth-year student at Epitech.<br>- 📚 I'm currently learning C++/Haskell<br>- ⚡ In my free time I devote myself to developing my own game engine, a secret project of mine, while also delving into DevOps.</p>
 
 ###
 
